@@ -1,0 +1,4 @@
+extension String (A)
+  def foo: () -> Integer
+  def bar: () -> Integer
+end
